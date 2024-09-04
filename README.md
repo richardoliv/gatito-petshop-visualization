@@ -31,7 +31,7 @@ O Que é BI e sua Importância: Entendimento do conceito de Business Intelligenc
 - Power BI Desktop: Para criação e publicação de dashboards e relatórios interativos.
 - Linguagem DAX: Para cálculos e análises dinâmicas.
 - Power Query (Linguagem M): Para tratamento e transformação dos dados.
-- 
+  
 **Como Utilizar**
 Clone este repositório: https://github.com/richardoliv/gatito-petshop-visualization
 Abra o arquivo .pbix no Power BI Desktop para explorar as visualizações e editar os relatórios conforme necessário.
